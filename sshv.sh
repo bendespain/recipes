@@ -1,7 +1,4 @@
 #!/bin/bash
 ssh -vvv "$@"
 
-
-asd
-fas
-dfasdf
+This is a test ,don't know why it won't work though
